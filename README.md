@@ -9,7 +9,7 @@ This project uses traditional ML models to classify movie genres into **Comedy**
 
 ---
 
-## ⚙ Techniques Used
+##  Techniques Used
 - Data Cleaning & Preprocessing
 - Feature Engineering
 - Models: CatBoost, XGBoost, Logistic Regression
